@@ -22,6 +22,8 @@ class Client(Person):
         print(self.order)
 
 
+
+
 # pracownik = Employee("Tomek", "Kowalski", 23, "Programer", "Python")
 # print(pracownik.name)
 # print(pracownik.position)
